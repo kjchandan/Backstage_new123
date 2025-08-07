@@ -5,7 +5,6 @@ metadata:
   title: Python Golden Path
   description: Provisions a minimalistic flask application
 spec:
-  owner: development
   type: service
 
   parameters:
